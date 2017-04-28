@@ -1,8 +1,10 @@
-# BetterTouchTool - Spotify - Touch Bar
+# BetterTouchTool - Clipboard - Touch Bar
 
 ## Description
 
-If you have a MacBook Pro with the touchbar this project will help you to customize your touchbar by adding the current sound playing on spotify.
+If you have a MacBook Pro with the touchbar this project will help you to customize your touchbar by :
+ - showing you what's in your clipboard.
+ - Clear the clipboard by clicking on the widget
 
 Example :
 
@@ -40,6 +42,3 @@ On the Predefined action choose **Run Applescript (enter directly as a text)**
 
 
 And Voila !
-
-### Credits
-[CaptainAverage](https://obsproject.com/forum/threads/how-to-display-current-song-is-x-on-mac.23444/#post-128864) on obsproject.com
